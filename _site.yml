@@ -29,4 +29,6 @@ navbar:
           href: yourfile.html
     - text: "Resources"
       href: resources.html
+    - text: "My evil plot"
+      href: franco.html
 output_dir: "."

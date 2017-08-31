@@ -1,0 +1,12 @@
+---
+title: "Eliminatorio"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is my new webage
+
+My name is Carlos Franco and I have to watch my game today. 
